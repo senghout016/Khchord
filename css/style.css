@@ -1,0 +1,62 @@
+body
+{
+	background-color: #cccccc;
+}
+img
+{
+	width: 60%;
+	height:60%;
+
+}
+.A1
+{
+	background-color: rgb(117, 117, 163);
+	position: absolute;
+	left: 260px;
+	top: 220px;
+	width: 800px;
+	height: 50px;
+	font-size: 20px;
+}
+#a1
+{
+	position: absolute;
+	left: 100px;
+	top: 15px;
+}
+#a2
+{
+	position: absolute;
+	left: 240px;
+	top: 15px;
+}
+#a3
+{
+	position: absolute;
+	left: 400px;
+	top: 15px;
+}
+#a4
+{
+	position: absolute;
+	left: 560px;
+	top: 15px;
+}
+.A2
+{
+	background-color: white;
+	position: absolute;
+	left: 260px;
+	top: 270px;
+	width: 800px;
+	height: 2000px;
+}
+#img1
+{
+	border-style: solid;
+	
+	width: 380px;
+	height: 250px;
+	position: absolute;
+	left: 10px
+}
